@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to DSS
 
 You can use the [editor on GitHub](https://github.com/paul1596/labdss/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
